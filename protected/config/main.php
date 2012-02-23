@@ -71,6 +71,9 @@ return array(
 				*/
 			),
 		),
+		'fixture'=>array(
+			'class'=>'system.test.CDbFixtureManager',
+		),
 	),
 
 	// application-level parameters that can be accessed
